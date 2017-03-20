@@ -21,4 +21,4 @@ Bookoid helps you select from a vast collection of books and easily manage your 
 
 Contact: [saurabhthorat95@gmail.com](mailto:saurabhthorat95@gmail.com)
 
-Privacy Policy: http://saurabhthorat.github.io/bookoid/privacy
+Privacy Policy: <http://saurabhthorat.github.io/bookoid/privacy>
