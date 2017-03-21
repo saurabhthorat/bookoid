@@ -56,4 +56,4 @@ This Privacy Policy may be changed at any time. We will notify you of any change
 
 ## Contact
 
-If you have any questions about this Privacy Policy, please contact me at saurabhthorat95@gmail.com
+If you have any questions about this Privacy Policy, please contact me at [saurabhthorat95@gmail.com](mailto:saurabhthorat95@gmail.com)
