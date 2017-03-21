@@ -17,6 +17,12 @@ Bookoid helps you select from a vast collection of books and easily manage your 
 * Clean and smooth user interface
 * App shortcuts (Android 7.1+)
 
+## Screenshots
+
+<img src="screenshots/categories_framed.png" width="250" />
+<img src="screenshots/search_framed.png" width="250" />
+<img src="screenshots/details_framed.png" width="250" />
+
 ----
 
 Contact: [saurabhthorat95@gmail.com](mailto:saurabhthorat95@gmail.com)
