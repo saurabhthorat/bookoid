@@ -19,9 +19,9 @@ Bookoid helps you select from a vast collection of books and easily manage your 
 
 ## Screenshots
 
-<img src="screenshots/categories_framed.png" width="250" style='margin: 30px' />
-<img src="screenshots/search_framed.png" width="250" style='margin: 30px' />
-<img src="screenshots/details_framed.png" width="250" style='margin: 30px' />
+<img src="screenshots/categories_framed.png" width="250" style='margin: 10px' />
+<img src="screenshots/search_framed.png" width="250" style='margin: 10px' />
+<img src="screenshots/details_framed.png" width="250" style='margin: 10px' />
 
 ----
 
