@@ -12,11 +12,11 @@ For a better experience, while using this Application, you may be required to pr
 
 Bookoid uses certain permissions to deliver better services. These permissions include:
 
-a) 'INTERNET' - This permission is required to fetch books from the Internet.
+* 'INTERNET' - This permission is required to fetch books from the Internet.
 
-b) 'WRITE_EXTERNAL_STORAGE' - This permission is required for saving book covers on your phone's storage.
+* 'WRITE_EXTERNAL_STORAGE' - This permission is required for saving book covers on your phone's storage.
 
-c) 'CAMERA' - This permission is required to scan barcode from books to check book's information.
+* 'CAMERA' - This permission is required to scan barcode from books to check book's information.
 
 
 ## Log Data
@@ -25,7 +25,7 @@ To provide better services, Log Data is collected. This Log Data may include inf
 
 Bookoid uses the following third party service which collects information:
 
-a) Firebase Analytics
+* Firebase Analytics
 
 Firebase is an analytics service provided by Google. Bookoid uses this service to understand how users interact with the Application. For example, which screens are popular, how long users spend in the app, etc.
 
