@@ -25,11 +25,11 @@ To provide better services, Log Data is collected. This Log Data may include inf
 
 Bookoid uses the following third party service which collects information:
 
-* Firebase Analytics
+* Firebase Analytics 
 
-Firebase is an analytics service provided by Google. Bookoid uses this service to understand how users interact with the Application. For example, which screens are popular, how long users spend in the app, etc.
+    Firebase is an analytics service provided by Google. Bookoid uses this service to understand how users interact with the Application. For example, which screens are popular, how long users spend in the app, etc.
 
-For more information, see the [Firebase Privacy Policy](https://www.firebase.com/terms/privacy-policy.html)
+    For more information, see the [Firebase Privacy Policy](https://www.firebase.com/terms/privacy-policy.html)
 
 
 ## Advertising
