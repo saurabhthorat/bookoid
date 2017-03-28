@@ -8,7 +8,10 @@ If you choose to use this Application, then you agree to the collection and use 
 
 ## Information Collection and Use
 
-For a better experience, while using this Application, you may be required to provide us with certain personally identifiable information, including but a) name, b)  email address. In case you choose to decline to submit this information, we may not be able to provide certain services on the Application to you.
+For a better experience, while using this Application, you may be required to provide us with certain personally identifiable information, including a) name, b)  email address. In case you choose to decline to submit this information, we may not be able to provide certain services on the Application to you.
+
+Bookoid uses Firebase Authentication to store user details provided by the user.
+For more information, see the [Firebase Privacy Policy](https://www.firebase.com/terms/privacy-policy.html)
 
 Bookoid uses certain permissions to deliver better services. These permissions include:
 
