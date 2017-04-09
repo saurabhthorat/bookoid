@@ -1,7 +1,5 @@
 # Bookoid
 
-<img align="right" height="192" src="screenshots/web_hi_res_512.png"/>
-
 <a href='https://play.google.com/store/apps/details?id=com.saurabh.bookoid&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' height="80" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
 Bookoid helps you select from a vast collection of books and easily manage your personal books library. Easily find the the book you want and also explore from a range of book listings. Build your library as you discover great books on the app.
