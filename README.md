@@ -13,6 +13,7 @@ Bookoid helps you select from a vast collection of books and easily manage your 
 * Search using only emojis
 * Preview chapters from books to help find your next great read
 * Scan barcode on books to get all the detailed information about it
+* Download public domain books for reading offline
 * Manage your personal library
 * Search for your favorite authors and get all of their books
 * Sync your library across all your devices so you can access your books everywhere
