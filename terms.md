@@ -1,4 +1,4 @@
-# Terms of Use Agreement
+# Terms of Use
 
 Welcome! This page explains the terms for using Bookoid mobile application ("Service"), so please read these terms of use (this "Agreement") carefully before using the Service. By accessing or using the Service, you agree to be bound by this Agreement and by our [Privacy Policy](https://saurabhthorat.github.io/bookoid/privacy). If you do not agree to be bound by all of these Terms of Use, do not access or use the Service. If you have any questions, feel free to email me at [saurabhthorat95@gmail.com](mailto:saurabhthorat95@gmail.com).
 
