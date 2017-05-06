@@ -10,3 +10,33 @@ a {
 .project-name a {
     text-decoration: none;
 }
+
+.site-footer {
+    position: relative;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 40px;
+    font-size: 12px;
+    line-height: 1.5;
+    color: #159957;
+    border-top: 1px solid;
+}
+
+.site-footer-links {
+    margin: 0;
+    list-style: none;
+}
+
+.site-footer-links ul {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-padding-start: 40px;
+}
+
+.site-footer-links li {
+    display: inline-block;
+    line-height: 16px;
+    text-align: -webkit-match-parent;
+    margin-left: 40px;
+}
