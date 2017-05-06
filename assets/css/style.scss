@@ -25,6 +25,7 @@ a {
 .site-footer-links {
     margin: 0;
     list-style: none;
+    float: right;
 }
 
 .site-footer-links ul {
@@ -38,5 +39,5 @@ a {
     display: inline-block;
     line-height: 16px;
     text-align: -webkit-match-parent;
-    margin-left: 40px;
+    margin-right: 40px;
 }
