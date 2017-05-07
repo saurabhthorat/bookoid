@@ -29,6 +29,10 @@ THE SERVICE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. USE OF THE SERVI
 
 WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE BOOKOID SERVICE OR ANY HYPERLINKED WEBSITE OR SERVICE, AND WE WILL NOT BE A PARTY TO OR IN ANY WAY MONITOR ANY TRANSACTION BETWEEN YOU AND THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES.
 
+## Governing Law and Consent to Jurisdiction
+
+This Agreement is governed by the laws of India, without regard to its conflicts of law provisions; and you hereby consent to the exclusive jurisdiction of courts in Pune, India with respect to all disputes arising out of or relating to the Service. In addition, you hereby consent to the exclusive jurisdiction of and venue in such courts for any action commenced by you against us.
+
 ---
 
 Please contact me at [saurabhthorat95@gmail.com](mailto:saurabhthorat95@gmail.com) with any questions regarding this Agreement.
