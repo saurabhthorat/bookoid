@@ -13,12 +13,14 @@ a {
 
 .site-footer {
     position: relative;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    margin-top: 40px;
+    padding-top: 20px;
+    padding-bottom: 32px;
+    margin-top: 20px;
     font-size: 12px;
     line-height: 1.5;
-    color: #159957;
+    color: #ffffff;
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #155799, #159957);
     border-top: 1px solid;
 }
 
