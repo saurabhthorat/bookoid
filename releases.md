@@ -2,6 +2,17 @@
 
 This page provides details about the most recent Bookoid releases.
 
+## Version 1.3 (May 22, 2017)
+
+* Sort search results by relevance or newest
+* Search books in Spanish and Dutch too
+* Use Google Assistant to search books
+* Support for Simplified Chinese
+* Added translations in category names
+* New FAB animation
+* Fixed crash on pressing next after scanning book
+* Fixed crash when fetching user's name returns null
+
 ## Version 1.2 (May 7, 2017)
 
 * New category - Cooking
