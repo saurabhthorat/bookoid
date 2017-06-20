@@ -2,6 +2,14 @@
 
 This page provides details about the most recent Bookoid releases.
 
+## Version 1.4 (June 20, 2017)
+
+* Get recommendations for books written by the same author
+* Now search books in French
+* Hide top bar when viewing thumbnails in full screen
+* Support for French and Arabic
+* Minor improvements
+
 ## Version 1.3 (May 22, 2017)
 
 * Sort search results by relevance or newest
