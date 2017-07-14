@@ -2,6 +2,16 @@
 
 This page provides details about the most recent Bookoid releases.
 
+## Version 1.5 (July 14, 2017)
+
+* Now supports Android O
+* Change layout in library
+* Search for German books
+* Show cache size in settings
+* Added round icon
+* Support for German
+* Added dynamic colors for book recommendations
+
 ## Version 1.4 (June 20, 2017)
 
 * Get recommendations for books written by the same author
