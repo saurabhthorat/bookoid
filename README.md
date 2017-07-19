@@ -15,8 +15,10 @@ Bookoid helps you select from a vast collection of books and easily manage your 
 * Scan barcode on books to get all the detailed information about it
 * Download public domain books for reading offline
 * Manage your personal library
+* Check book ratings
 * Search for your favorite authors and get all of their books
 * Sync your library across all your devices so you can access your books everywhere
+* Search books in Spanish, German, French and Dutch too (More languages coming soon!)
 * Clean and smooth user interface
 * App shortcuts (Android 7.1+)
 
