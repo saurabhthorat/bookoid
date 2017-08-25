@@ -2,6 +2,16 @@
 
 This page provides details about the most recent Bookoid releases.
 
+## Version 1.6 (August 25, 2017)
+
+* Split settings and about
+* Added website link
+* Fixed crash after scanning a book
+* Fixed crash when sending feedback
+* New animation when entering profile
+* Removed layout change option if user is not logged in
+* Other bug fixes
+
 ## Version 1.5 (July 14, 2017)
 
 * Now supports Android O
