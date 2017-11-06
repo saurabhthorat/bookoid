@@ -2,6 +2,16 @@
 
 This page provides details about the most recent Bookoid releases.
 
+## Version 1.7 (November 6, 2017)
+
+* New category - Biography
+* Support for Android 8.1
+* Flash toggle in scanner
+* Quick setting tile for scanning book. Just pull the notification shade and add this tile to get started. (Android 7.0+)
+* App shortcut for scanning book (Android 7.1+)
+* Sample books are now marked as "Sample" instead of "Preview"
+* Fixed crash when browser is not installed
+
 ## Version 1.6 (August 25, 2017)
 
 * Split settings and about
